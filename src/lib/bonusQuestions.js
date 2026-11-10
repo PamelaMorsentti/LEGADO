@@ -1,0 +1,33 @@
+// Preguntas sorpresa: para escribir en ratos libres, sin sentir que es tarea.
+export const SORPRESA_KEY = "sorpresas";
+
+export const BONUS_QUESTIONS = [
+  "¿Qué olor te transporta inmediatamente a tu infancia?",
+  "¿Cuál fue tu primer trabajo y cuánto te pagaban?",
+  "¿Qué canción no puede faltar en tu vida y por qué?",
+  "¿Cuál es la mejor advice que te dio tu madre?",
+  "¿Qué hacías los domingos cuando eras niña?",
+  "¿Cuál fue tu primer amor y qué recuerdas de esa época?",
+  "¿Qué comida no puede faltar en tus celebraciones?",
+  "¿Cuál es el viaje de tu vida que volverías a hacer?",
+  "¿Qué te hacía reír tanto que no podías parar?",
+  "¿Cuál fue el regalo que más te ha sorprendido?",
+  "¿Qué sueño de niña todavía te gustaría cumplir?",
+  "¿Cómo era tu casa cuando eras niña? Descríbela.",
+  "¿Qué decían tus abuelos que siempre recuerdas?",
+  "¿Cuál fue tu mayor miedo superado?",
+  "¿Qué harías con un día completamente libre, solo para ti?",
+  "¿Cuál es tu receta de la felicidad?",
+  "¿Qué objeto guardas con más cariño y cuál es su historia?",
+  "¿Cuál fue la mejor decisión que has tomado?",
+  "¿Qué te enseñó la vida que no te enseñó la escuela?",
+  "¿Cómo te imaginabas tu vida a los 20 años?",
+  "¿Qué harías hoy si tuvieras 18 años otra vez?",
+  "¿Cuál es tu lugar favorito en el mundo para descansar?",
+  "¿Qué tradición de tu familia quieres que nunca se pierda?",
+  "¿Qué mensaje le darías a la mujer que fuiste hace 10 años?",
+  "¿Cuál es la anécdota familiar que más veces has contado?",
+  "¿Qué sacrificio hiciste por tu familia del que estás orgullosa?",
+  "¿Cuál es tu favorito: amanecer o atardecer, y por qué?",
+  "¿Qué te gustaría que tus nietos sepan de ti?",
+];
